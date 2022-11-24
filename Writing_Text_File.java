@@ -2,12 +2,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
  
-/**
- * This program demonstrates how to write characters to a text file
- * using a BufferedReader for efficiency.
- * @author www.codejava.net
- *
- */
+
 public class Writing_Text_File{
  
     public static void main(String[] args) {
